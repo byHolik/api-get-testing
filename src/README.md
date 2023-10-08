@@ -1,4 +1,4 @@
-# Test https://restful-booker.herokuapp.com/
+# Test restful-booker.herokuapp.com
 
 This project is an example of testing https://restful-booker.herokuapp.com/ using the [REST Assured](https://mvnrepository.com/artifact/io.rest-assured/rest-assured) and [Apache HTTPClient](https://hc.apache.org/httpcomponents-client-5.2.x/) framework with [JUnit](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api).
 
